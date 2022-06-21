@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhaedream
 - 👀 I’m interested in web3 technologies and overall graohic design.
 - 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on the development of Web3 metaverses.
+- 💞️ I’m looking to collaborate on blockchain projects.
 - 📫 www.linkedin.com/in/dhaedream
 
 <!---
